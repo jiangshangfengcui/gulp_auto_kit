@@ -1,0 +1,7 @@
+body: before {
+	content: "I am style sheet of about page";
+	font-size: 16px;
+	font-color: #ff0;
+	font-family: "Microsoft YaHei";
+	line-height: 24px;
+};
